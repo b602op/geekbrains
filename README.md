@@ -1,4 +1,15 @@
-# [html/css](https://github.com/b602op/geekbrains/tree/htmlcss)
-# [js1](https://github.com/b602op/geekbrains/tree/js1)
-# [js2](https://github.com/b602op/geekbrains/tree/js2)
-# [список всех тематик js1 и js2](https://github.com/b602op/geekbrains/tree/common)
+# html/css
+
+
+### 1. верстка интернет магазина 
+
+	indedx.html
+	style.css
+
+### 2. Основы программирования
+	1. Переменные и типа данных
+	2. Циклы и ветвления
+	3. Массивы
+	4. Основы html
+
+### 3. git

@@ -1,4 +1,44 @@
-# [html/css](https://github.com/b602op/geekbrains/tree/htmlcss)
-# [js1](https://github.com/b602op/geekbrains/tree/js1)
-# [js2](https://github.com/b602op/geekbrains/tree/js2)
-# [список всех тематик js1 и js2](https://github.com/b602op/geekbrains/tree/common)
+# js2
+
+### 1) настройка окружения
+    - webpack
+    (на усмотрение педагога рассказать о babel, eslint)
+    - разбор вкладок браузера 
+    	Sources
+    	Network
+    	Perfomance
+    	Mamory
+    	Application
+    	Audits
+    - Object spread ...
+    - Object.assign
+    - всё ли в js объекты?
+
+### 2) классы, стрелочные функции, this
+	- Геттеры / сеттеры
+	- this ()=>{} class
+	- иммутабельность / мутабельность
+	- повторнить тему callback
+	- apply call bind
+	
+
+### 3) Замыкание. Рекурсия и стек. 
+	- Лексическое Окружение
+	- Вложенные функции
+	- Контекст выполнения, стек
+	- Рекурсивные структуры
+
+### 4) Запросы
+    - ajax
+    - промисы
+    - JSON
+    - XMLHttpRequest
+    (на усмотрение педагога рассказать про axios)
+
+### 5) Практический урок 1. Переписывание Код1 и Код2 под компоненты (опционально - на фреймворке) 
+
+### 6) делаем свой redux из JS
+
+### 7) Тесты Переписывание Код3 
+
+### 8) Практический урок 2. Переписывание Код4 и Код5 под компоненты (опционально - на фреймворке) 
